@@ -9,3 +9,5 @@ tar -xzvf LLD-icon_PNG.zip
 [post on GAN](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/)
 
 [Google Drive workspace](https://drive.google.com/drive/folders/1pSdohMHN3-EghCG0hzc6uDhXTuKehrc9?usp=sharing)
+
+[Overleaf Link](https://www.overleaf.com/project/6372ec593d3dc86e8d2ebb94)
